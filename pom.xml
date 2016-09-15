@@ -8,7 +8,10 @@
   <groupId>maven_java</groupId>
   <artifactId>maven_java</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-Maven_Java</version>
   
   <name>Replace for maven_java</name>
+  <build>
+
+  </build>
 </project>
