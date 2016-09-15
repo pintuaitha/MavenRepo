@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>maven_java</groupId>
+  <groupId>training.maven.quick</groupId>
   <artifactId>maven_java</artifactId>
   <packaging>jar</packaging>
   <version>1.0-Maven_Java</version>
