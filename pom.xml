@@ -11,7 +11,13 @@
   <version>1.0-Maven_Java</version>
   
   <name>Replace for maven_java</name>
+  <description>
+	This is just a sample maven project that 
+	we are building	here
+  </description>
   <build>
-
+	<finalName>simple</finalName>
   </build>
-</project>
+  <inceptionYear>2016</inceptionYear>
+  <url>http://maven.training</url>
+  </project>
